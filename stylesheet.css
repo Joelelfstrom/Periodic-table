@@ -1,0 +1,103 @@
+/* 
+    Created on : 2014-feb-6, 13:27:36
+    Author     : Nti-dator
+*/
+.atomicnr {
+	font-size: 1.1em;
+}
+
+.atomicweight {
+	float: right;
+	font-size: 0.8em;
+}
+
+.symbol {
+	clear: right;
+	display: block;
+	text-align:center;
+	font-size: 1.5em;
+	font-weight: bold;
+}
+
+.name {
+	text-align:center;
+	font-size: 0.8em;
+	display: block;
+	padding-top:5px;
+}
+
+.alakali {
+	background: #ccc;
+}
+
+.alakaline {
+	background: lightgreen;
+}
+
+.transitional {
+	background: yellow;
+}
+
+.other {
+	background: pink;
+}
+
+.nonmetal {
+	background: lightblue;
+}
+
+.noble {
+	background: orange;
+}
+
+.solid {
+	color: black;
+}
+
+.liquid {
+	color: blue;
+}
+
+.gas {
+	color: red;
+}
+.synthetically {    /* Webkit är tagen från internet. */
+	   color: #fff;                 
+	   -webkit-text-fill-color: white;
+	   -webkit-text-stroke-width: 1px;
+	   -webkit-text-stroke-color: black;
+}
+
+.box {
+	width: 75px;
+	height: 75px;
+	border: 1px solid #000;
+        padding: 0px;
+        margin: 0px;
+}
+.emptybox {
+        width: 75px;
+	height: 20px;
+        padding: 0px;
+        margin: 0px;
+}
+html,body,div,span{
+        padding: 0px;
+        margin: 0px;
+}
+
+table {
+        margin: 0px;
+        padding: 0px;
+        border-spacing: 0;
+}
+
+tr {
+        margin: 0px;
+        padding: 0px;
+}
+td {
+        background-color: #fff;
+        margin: 0px;
+        padding: 0px;
+}
